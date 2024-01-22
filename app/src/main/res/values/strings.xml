@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Todo Kotlin</string>
+    <string name="enter_a_message">Enter a message</string>
+    <string name="save">Save</string>
 </resources>
