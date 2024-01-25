@@ -22,7 +22,7 @@ class MainActivity : AppCompatActivity() {
 
         editTextMessage = findViewById(R.id.edit_text_message)
         saveButton = findViewById(R.id.save_button)
-        textViewMessage = findViewById(R.id.save_button)
+        textViewMessage = findViewById(R.id.text_view_message)
 
         saveButton.setOnClickListener {
 //            mode = 0 means that is access able
